@@ -1,0 +1,15 @@
+[
+  {
+    "town": "Demarest",
+    "sport": "lacrosse",
+    "colors": ["#003366", "#FFD700"],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/NV-Demarest_Norsemen_logo.png",
+    "players": [
+      "Max Brickman", "Dylan Distelburger", "Jackson Dickstein", "Kurt Onal", "Cody Weiss",
+      "Lucas Sands", "Ron Rozenthal", "Brian Tompkins", "Andrew Khawaja", "Aristotelis Paliouras",
+      "Tanner Brickman", "Tohar Hatooka", "Harrison White", "Markus White", "Lukas",
+      "Jesse Lavin", "Ethan Kim", "Dylan Entner", "Ryan Shklyar", "George Yako",
+      "Neil Bernhaut"
+    ]
+  }
+]
